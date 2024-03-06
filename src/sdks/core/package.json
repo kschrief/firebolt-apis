@@ -30,14 +30,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/rdkcentral/firebolt-apis",
+		"url": "git+https://github.com/kschrief/firebolt-apis",
 		"directory": "src/sdks/core"
 	},
 	"author": "",
 	"bugs": {
-		"url": "https://github.com/rdkcentral/firebolt-apis/issues"
+		"url": "https://github.com/kschrief/firebolt-apis/issues"
 	},
-	"homepage": "https://github.com/rdkcentral/firebolt-apis#readme",
+	"homepage": "https://github.com/kschrief/firebolt-apis#readme",
 	"devDependencies": {
 		"jest": "^28.1.0",
 		"jest-environment-jsdom": "^28.1.3",

@@ -1,3 +1,12 @@
+## [1.1.1-next-major.1](https://github.com/kschrief/firebolt-apis/compare/v1.1.0...v1.1.1-next-major.1) (2024-03-06)
+
+
+### Bug Fixes
+
+* Add PlaylistEntity to EntityIntent ([9769d6d](https://github.com/kschrief/firebolt-apis/commit/9769d6d7d43f1d61dfcda16ba4806175c5cf7658))
+* Removed sdk as required field from Device.version ([#231](https://github.com/kschrief/firebolt-apis/issues/231)) ([ef3de3e](https://github.com/kschrief/firebolt-apis/commit/ef3de3e68619c6f666dd1d751b0acc25f6438122))
+* URL Fix ([e81ffda](https://github.com/kschrief/firebolt-apis/commit/e81ffda1581bfed92ead260f6ffdf4342447480b))
+
 ## [1.1.1-next.2](https://github.com/rdkcentral/firebolt-apis/compare/v1.1.1-next.1...v1.1.1-next.2) (2024-03-06)
 
 
